@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820548187793",
+    "project_id": "titassportswear",
+    "storage_bucket": "titassportswear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820548187793:android:9d6b6b1cbce70e84e43130",
+        "android_client_info": {
+          "package_name": "com.example.machine_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7MfqSfdn6V6O6noKHh0bj5V1ytDuRC3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
